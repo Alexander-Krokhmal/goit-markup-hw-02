@@ -1,0 +1,20 @@
+/* Fonts  Roboto  900, 700, 500, 400 , Raleway 700  
+colors main teme #212121
+colors white teme #FFFFFF
+colors accent #2196F3
+color text #757575
+footel color rgba(255, 255, 255, 0.6);
+
+hero-section >  letter-spacing: 0.06em;
+header (sans logo) > letter-spacing: 0.02em;
+body > letter-spacing: 0.03em;
+ */
+
+ /* Second background theme #2F303A;
+ main #ffffff
+ section Employees theme #F5F4FA; */
+
+ body {
+     background-color: #ffffff;
+     color: #757575;
+ }
